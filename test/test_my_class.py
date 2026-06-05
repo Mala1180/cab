@@ -1,6 +1,6 @@
 import pytest
 
-from uv_python_project_template import MyClass
+from cab import MyClass
 
 
 # can test using classes, name must begin with `Test`

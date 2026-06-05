@@ -1,4 +1,4 @@
-from uv_python_project_template import MyClass
+from cab import MyClass
 
 
 def main():

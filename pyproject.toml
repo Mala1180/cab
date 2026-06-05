@@ -1,6 +1,6 @@
 [project]
-name = "uv-python-project-template"
-version = "1.1.4"
+name = "cab"
+version = "0.1.0"
 description = "A Python project template using uv"
 readme = "README.md"
 authors = [
@@ -12,7 +12,7 @@ dependencies = [
 ]
 
 [project.scripts]
-uv_python_project_template = "uv_python_project_template.main:main"
+cab = "cab.main:main"
 
 [build-system]
 requires = ["uv_build>=0.11.7,<0.12.0"]
